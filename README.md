@@ -19,5 +19,8 @@ Database URL: jdbc:mysql://localhost:3306/"Database_name"
 <br>
 Username: "username"
 <br>
-Password: "password"
+Password: "password"<br>
+Ensure that you have MySQL installed and running, and create a database named hospital before running the application.
+
+
 
