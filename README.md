@@ -44,7 +44,11 @@ Ensure that you have MySQL installed and running, and create a database named  "
           4. The system will display relevant information based on the selected operation.
 
 
-
+## Contact Information ##
+Name: Akash Pal<br>
+Mobile Num:9321365436<br>
+Email Id: akashpal91522@gmail.com<br>
+Linkedin: https://www.linkedin.com/in/akash-pal113/
 
 
 
