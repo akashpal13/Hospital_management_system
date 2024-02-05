@@ -3,7 +3,7 @@ Build Hospital management system by using "core java concept", "JDBC " and "MySQ
 <br> 
 This project is a simple Hospital Management System implemented in Java using JDBC for database connectivity and MySQL as the backend database. The system includes functionalities for managing patient records, viewing doctors, and booking appointments.
 
-### Project Structure ### 
+# Project Structure 
 The project is organized into three main classes:
 <br><br>
 <b>Patient</b> : Manages patient-related operations, such as adding patients, viewing patient records, and checking patient availability.
@@ -12,7 +12,7 @@ The project is organized into three main classes:
 <br>
 <b>HospitalManagement<b> : The main class containing the user interface and functionality for adding patients, viewing patients, viewing doctors, booking appointments, and exiting the system.
 
-### Database Configuration ###
+## Database Configuration
 The project uses MySQL as the backend database
 <br>
 Database URL: jdbc:mysql://localhost:3306/"Database_name"
