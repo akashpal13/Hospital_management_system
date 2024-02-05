@@ -20,7 +20,22 @@ Database URL: jdbc:mysql://localhost:3306/"Database_name"
 Username: "username"
 <br>
 Password: "password"<br>
-Ensure that you have MySQL installed and running, and create a database named hospital before running the application.
+Ensure that you have MySQL installed and running, and create a database named  "hospital"  before running the application.
+
+#Usage
+<br>
+ Markup : 1. The application provides a menu-driven interface for the following operations:
+              1. Add Patient
+              2. View Patient
+              3. View Doctor
+              4. Book appointment
+              5. Exit
+          2. Choose the desired option by entering the corresponding number.
+          3. Follow the prompts to input information such as patient details, doctor details, or appointment information.
+          4. The system will display relevant information based on the selected operation.
+
+
+
 
 
 
