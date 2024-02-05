@@ -5,9 +5,10 @@ This project is a simple Hospital Management System implemented in Java using JD
 
 ### Project Structure ### 
 <br>
-The project is organized into three main classes:<br>
-<b>Patient</b>: Manages patient-related operations, such as adding patients, viewing patient records, and checking patient availability.<br>
-
-<b>Doctor</b>: Manages doctor-related operations, including viewing doctors and checking doctor availability.<br>
-
-<b>HospitalManagement<b>: The main class containing the user interface and functionality for adding patients, viewing patients, viewing doctors, booking appointments, and exiting the system<br>
+The project is organized into three main classes:
+<br>
+<b>Patient</b> : Manages patient-related operations, such as adding patients, viewing patient records, and checking patient availability.
+<br>
+<b>Doctor</b> : Manages doctor-related operations, including viewing doctors and checking doctor availability.
+<br>
+<b>HospitalManagement<b> : The main class containing the user interface and functionality for adding patients, viewing patients, viewing doctors, booking appointments, and exiting the system
