@@ -22,20 +22,20 @@ Username: "username"
 Password: "password"<br>
 Ensure that you have MySQL installed and running, and create a database named  "hospital"  before running the application.
 
-#Usage
+# Usage
 
 <br>
  Markup : 1. The application provides a menu-driven interface for the following operations:
  <br>
-              1. Add Patient <br>
+              1. Add Patient 
 
-              2. View Patient <br>
+              2. View Patient
 
-              3. View Doctor <br>
+              3. View Doctor
 
-              4. Book appointment <br>
+              4. Book appointment
 
-              5. Exit <br>
+              5. Exit
 
           2. Choose the desired option by entering the corresponding number. <br>
 
