@@ -26,7 +26,7 @@ Ensure that you have MySQL installed and running, and create a database named  "
 
 <br>
  Markup : 1. The application provides a menu-driven interface for the following operations:
- <br>
+ 
               1. Add Patient 
 
               2. View Patient
